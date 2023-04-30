@@ -8,7 +8,7 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 
 - [Google Photos ends the free storage service](https://www.techradar.com/news/google-photos-price)
 - We deserve the free cloud storage service! Pricing: [Google Drive](https://one.google.com/about/plans), [OneDrive](https://one.google.com/about/plans), [Dropbox](https://www.dropbox.com/individual/plans-comparison), [iCloud](https://support.apple.com/en-us/HT201238)
- 
+
 
 ## Getting Started
 
@@ -30,6 +30,11 @@ Or, just send us an [issue](https://github.com/mgilangjanuar/teledrive/issues) f
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mgilangjanuar/teledrive)
 
 If you're experiencing issues check this https://github.com/mgilangjanuar/teledrive/issues/373
+
+# Deploy to Railway
+[![Deploy](https://railway.app/button.svg)](https://railway.app/new/template/m4m_XE?referralCode=BvMMSE)
+
+(DrakeTDL's forked Teledrive repo powers the railway template.)
 
 ## Folder Structure
 
